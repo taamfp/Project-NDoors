@@ -1,2 +1,2 @@
 # fabioexplains
-Platform for freelance activitiesd
+Platform for freelance activities
