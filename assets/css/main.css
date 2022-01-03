@@ -1682,21 +1682,20 @@ input, select, textarea {
 /* Modal Content (image) */
 .modal-content {
   margin: auto;
-  display: block;
-  width: 80%;
-  max-width: 700px;
+  width: 850%;
+  height: 670px;
+  max-width: 850px;
 }
 
 /* Caption of Modal Image */
 #caption {
   margin: auto;
-  display: block;
-  width: 80%;
-  max-width: 700px;
+  width: 850%;
+  max-width: 850px;
   text-align: center;
   color: #ccc;
   padding: 10px 0;
-  height: 150px;
+  height: 670px;
 }
 
 /* Add Animation */
@@ -1709,16 +1708,16 @@ input, select, textarea {
 
 @-webkit-keyframes zoom {
   from {-webkit-transform:scale(0)} 
-  to {-webkit-transform:scale(3)}
+  to {-webkit-transform:scale(1)}
 }
 
 @keyframes zoom {
   from {transform:scale(0)} 
-  to {transform:scale(3)}
+  to {transform:scale(1)}
 }
 
 /* The Close Button */
-.close {
+.close1 {
   position: absolute;
   top: 15px;
   right: 75px;
@@ -1728,8 +1727,8 @@ input, select, textarea {
   transition: 0.3s;
 }
 
-.close:hover,
-.close:focus {
+.close1:hover,
+.close1:focus {
   color: #bbb;
   text-decoration: none;
   cursor: pointer;

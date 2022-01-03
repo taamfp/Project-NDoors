@@ -69,6 +69,7 @@
 		var	delay = 325,
 			locked = false;
 
+
 		// Methods.
 			$main._show = function(id, initial) {
 
